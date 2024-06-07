@@ -1,0 +1,27 @@
+Todo dentro de <HTML></HTML>
+<html>
+
+<head>
+<title>
+sdsadsdadsad
+</title>
+</head>
+<body>
+</body>
+</HTML>
+
+Atributos del body(dentro de body esta el texto la img etc…)
+Text=”#sasdasdad” (codigo color que quieras)
+Bgcolor=”#asdasdasasd” (codigo color que quieras)
+
+<hx></hx>es el titulo. x puede ser del 1 al 6 .El es el mas grande 
+<br> espacio
+<CENTER>ASDSDADSA</CENTER> para centrar
+<justify> para justificar
+
+<center><h1><i><u><b>TITULO</b></u></i>:</h1></center><br>
+
+Celll padding para hacer un cuadro
+
+Cellspacing
+

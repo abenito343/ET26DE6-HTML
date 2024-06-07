@@ -1,0 +1,230 @@
+<html>
+<head>
+<title>
+Official Razer Store - Buy Gaming Laptop, Mice, Keyboards, Keypads, Headsets, Mouse Pads - Razer Online Store (United States)
+</title>
+</head>
+<body background="Razer/honeycomb-bg.jpg" text="FFFFFF" bgcolor="000000"><center>
+<table border="5">  
+
+<tr bgcolor="000000">
+<td align="left" valign="middle">
+<pre>
+<img src="Razer/razer-homepage-logo.png" >  Products</pre>
+
+</td>
+<td>
+Store
+</td>
+<td>
+Support
+</td>
+<td>
+Community
+</td>
+<td>
+
+
+<img src="Razer/robertito.jpg" align="right">
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+Shop By
+</td>
+<td colspan="3">
+Featured Products
+</td>
+<td>Best Sellers
+
+</td>
+</tr>
+ 
+
+
+
+
+
+<tr>
+<td>
+Mice
+</td>
+<td colspan="3">
+
+</td>
+<td rowspan="10" bgcolor="000000">Razer Blade<br>
+Razer Edge Pro<br>
+Razer BlackWidow Ultimate<br>
+Stealth 2013<br>
+Razer Tiamat 7.1<br>
+League of Legends Razer Naga Hex<br>
+Razer Mamba<br>
+Razer BlackWidow Ultimate 2013<br>
+Razer Naga Molten<br>
+Razer Sabertooth<br>
+Razer Edge<br>
+</td>
+</tr>
+ 
+
+
+
+
+
+
+<tr>
+<td>
+Keyboards & Keypads
+</td>
+<td colspan="3">
+VIEW BY: FEATURED PRODUCTS
+</td>
+
+</tr>
+ 
+
+
+
+
+
+
+
+<tr>1
+</tr>
+<tr>
+<td>
+Audio
+</td>
+<td rowspan="5" bgcolor="000000" align="middle">
+<img src="Razer/razer-the-edge-cat-image-latest-rev.jpg"><br>Razer Edge
+</td>
+<td rowspan="5" bgcolor="000000" align="middle">
+<img src="Razer/razertumama.jpg"><br>Razer Taipan
+</td>
+<td rowspan="5" bgcolor="000000" align="middle">
+<img src="Razer/razertupapa.jpg"><br>Razer tumama7.1
+</td>
+
+
+</tr>
+<tr>
+</tr>
+
+
+
+
+
+<tr>
+<td>
+Systems
+</td>
+</tr>
+
+
+ 
+<tr>
+<td width="10" heigth="10">
+Controllers
+</td>
+<td rowspan="2">
+
+</td>
+<td rowspan="2">
+
+</td>
+<td rowspan="2">
+
+</td>
+
+</tr>
+ 
+<tr>
+<td>
+Accesories
+</td>
+
+</tr>
+ 
+<tr>
+<td>
+Licensed & Team
+</td>
+
+<td rowspan="2" bgcolor="000000" valign="bottom" align="middle">
+US$999.99 Buy Now »
+</td>
+<td rowspan="2" bgcolor="000000" valign="bottom" align="middle">
+US$79.99 Buy Now » 
+</td>
+<td rowspan="2" bgcolor="000000" valign="bottom" align="middle">
+US$199.99 Buy Now »
+</td>
+
+
+</tr>
+<tr>
+1
+</tr>
+<tr>
+<td valign="top">
+Gaming Platform<br>
+Powered for PC<br>
+Powered for Mac<br>
+Powered for Xbox<br>
+More<br>
+RazerStore Exclusive<br>
+Clearance<br>
+
+</td>
+<td rowspan="9" colspan="3" valign="top" align="middle"><br>
+<img src="razer/pormas.png">
+<br><font align="left" size="5"><b>WHAT IS SHAKIN'</b></font>
+
+
+</td>
+<td  valign="top" rowspan="1" align="middle" height="100">
+<img src="razer/tutio.png"> 
+
+
+</td>
+
+</tr>
+<tr><td><br>
+<img src="razer/promo.png">
+</td>
+<td><br><img src="razer/asd.png">
+</td>
+</tr>
+
+
+<tr>
+<td align="middle" rowspan="4">
+<img src="Razer/corre.png">
+</td>
+</tr>
+<tr>
+
+<tr>
+<td bgcolor="000000" align="middle"><br>
+<img src="Razer/tuwachinango.png" width="200" height="150"><br>Razer BlackWidow Ultimate <br>2013<br>US$139.99 Buy Now »
+</td>
+<td colspan="2" bgcolor="000000" align="middle"><br>
+<img src="Razer/tuwachinango2.png" width="200" height="150"><br>Razer Megalodon<br>US$149.99 Buy Now »
+</td>
+</tr>
+<tr>
+</tr>
+
+
+</center>
+</body>
+
+
+
+
+
+
+</html>
